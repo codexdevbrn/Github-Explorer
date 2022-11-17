@@ -2,7 +2,7 @@
 
 Aplicativo de página única ( SPA ) criado com ReactJS e TypeScript para explorar repositórios do GitHub. Este projeto permite salvar e listar repositórios e oferece uma maneira fácil de acessar a página de problemas do repositório.
 
-Ele foi construído como um exercício do GoStack Bootcamp da Rocketseat para colocar em prática os estudos de ReactJS, React Hooks, Styled Components, React Router Dom, layout responsivo e GitHub Pages para deploy.
+Ele foi construído como um exercício do GoStack Bootcamp da Rocketseat para colocar em prática os estudos de ReactJS, React Hooks, Styled Components, React Router Dom e layout responsivo.
 
 Este projeto se conecta à API oficial do GitHub para obter os dados.
 
